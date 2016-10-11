@@ -29,12 +29,6 @@ public class GroupDao implements GroupDaoUnique {
                 return groups.get(i);
             }
         }
-
-//        for (Group group : groups) {
-//            if (group.getId() == id) {
-//                return group;
-//            }
-//        }
         return null;
     }
 

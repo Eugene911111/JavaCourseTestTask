@@ -36,4 +36,6 @@ public class SimpleDataBase {
     public void setAllGroups(List<Group> allGroups) {
         this.allGroups = allGroups;
     }
+
+
 }
